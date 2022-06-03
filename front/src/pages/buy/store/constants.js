@@ -1,0 +1,5 @@
+export const CHANGE_HOME_DATA = 'buy/CHANGE_HOME_DATA';
+export const ADD_ARTICLE_LIST = 'buy/ADD_ARTICLE_LIST';
+export const TOGGLE_SCROLL_TOP = 'buy/TOGGLE_SCROLL_TOP';
+export const CHANGE_STAR_STATE = 'buy/CHANGE_STAR_STATE';
+export const CHANGE_BOOK_DATA = 'buy/CHANGE_BOOK_STATE';

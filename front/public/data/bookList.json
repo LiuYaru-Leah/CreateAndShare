@@ -1,0 +1,28 @@
+{
+	"success": true,
+	"data": [{
+			"id": 5,
+			"title": "Gravitation",
+			"desc": "With an emphasis on geometric interpretation, this masterful and comprehensive book introduces the theory of relativity; describes physical applications Material focusing on basic physical ideas is designated as Track 1 and formulates an appropriate one-semester graduate-level course. The remaining Track 2 material provides a wealth of advance...",
+			"imgUrl": "//img13.360buyimg.com//n0/jfs/t1/163581/14/6436/153142/6021e47dE2dae2262/d82a6822e353e009.jpg.avif",
+			"cata":"science"
+		}, {
+			"id": 6,
+			"title": "Lectures in Abstract Algebra",
+			"desc": "The present volume is the first of three that will be published under the general title Lectures in Abstract Algebra. These vol umes are based on lectures which the author has given during the past ten years at the University of North Carolina, at The Johns Hopkins University, and at Yale \"University. The general plan of the work IS as follows: The present first volume gives an introduction to abstract algebra and gives an account of most of the important algebraIc concepts. In a treatment of this type it is impossible to give a comprehensive account of the topics which are introduced. Nevertheless we have tried to go beyond the foundations and elementary properties of the algebraic sys tems. This has necessitated a certain amount of selection and omission. We feel that even at the present stage a deeper under standing of a few topics is to be preferred to a superficial under standing of many. The second and third volumes of this work will be more special ized in nature and will attempt to give comprehensive accounts of the topics which they treat. Volume II will bear the title Linear Algebra and will deal with the theorv of vectQ!_JlP. -a. ces. . . . . Volume III, The Theory of Fields and Galois Theory, will be con cerned with the algebraic structure offieras and with valuations of fields. All three volumes have been planned as texts for courses.",
+			"imgUrl": "//img13.360buyimg.com/n1/jfs/t1/200209/10/8010/135100/61403c65E3a1c1b1e/1a464253d944fecd.jpg.avif",
+			"cata":"math"
+		}, {
+			"id": 7,
+			"title": "Modern Classical Physics",
+			"desc": "This first-year, graduate-level text and reference book covers the fundamental concepts and twenty-first-century applications of six major areas of classical physics that every masters- or PhD-level physicist should be exposed to, but often isn't: statistical physics, optics (waves of all sorts), elastodynamics, fluid mechanics, plasma physics, and special and general relativity and cosmology. Growing out of a full-year course that the eminent researchers Kip Thorne and Roger Blandford taught at Caltech for almost three decades, this book is designed to broaden the training of physicists. Its six main topical sections are also designed so they can be used in separate courses, and the book provides an invaluable reference for researchers.",
+			"imgUrl": "//img10.360buyimg.com/n1/jfs/t1/142090/20/12008/185907/5f92738fE9f05a737/bb6cdb0e15b0daff.jpg.avif",
+			"cata":"science"
+		}, {
+			"id": 8,
+			"title": "Visual Complex Analysis",
+			"desc": "This radical approach to complex analysis replaces the standard calculational arguments with new geometric arguments. With several hundred diagrams, and far fewer prerequisites than usual, this is the first visual intuitive introduction to complex analysis. Although designed for use by undergraduates in mathematics and science, the novelty of the approach will also interest professional mathematicians.",
+			"imgUrl": "//img13.360buyimg.com/n1/jfs/t1/166667/16/7976/132886/6034575fEf6fff513/402016b98e2ce5e1.jpg.avif",
+			"cata":"science"
+		}]
+}

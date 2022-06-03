@@ -1,0 +1,1 @@
+export const CHANGE_BOOK_DETAIL = 'bookdetail/CHANGE_BOOK_DETAIL';
