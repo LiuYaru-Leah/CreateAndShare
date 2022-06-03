@@ -8,10 +8,10 @@ react@17.0.2 + react-router-dom@6.3.0 + react-scripts@5.0.0 + axios@0.27.2 + imm
 ### Technology Stack Tree
 
 #### Back-end Tree
-<img width="1000" alt="image" src="https://raw.githubusercontent.com/UOA-CS732-SE750-Students-2022/project-group-azure-alligators/main/img/tree1.png?token=GHSAT0AAAAAABUCAEOUUUUWGN46DO6KTBWMYUBDKFA">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/87626822/171834740-9137c62f-6638-43e4-b754-cf1d195feebb.png">
 
 #### Font-end Tree
-<img width="1000" alt="image" src="https://raw.githubusercontent.com/UOA-CS732-SE750-Students-2022/project-group-azure-alligators/main/img/tree2.png?token=GHSAT0AAAAAABUCAEOUWZCHOCAXJ6M2T7YSYUBDMQQ">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/87626822/171834862-b855c362-e14b-4da9-8058-ce2424db40b6.png">
 
 
 ## Background and Introduction
